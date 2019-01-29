@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+env
+
+which sbt
+
+sbt -h
+
+exit 0
